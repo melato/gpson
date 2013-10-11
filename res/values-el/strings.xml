@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GPS Ανοιχτό</string>    
+    <string name="stop">Τερματισμός</string>
+    <string name="visible_satellites">Ορατοί Δορυφόροι</string>
+    <string name="satellites_used">Χρησιμοποιούνται</string>
+    <string name="latitude">Γεωγραφικό Πλάτος</string>
+    <string name="longitude">Γεωγραφικό Μήκος</string>
+    <string name="blank"></string>
+</resources>
